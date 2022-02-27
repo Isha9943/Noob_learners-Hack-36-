@@ -1,0 +1,94 @@
+{
+    "Monday": [],
+    "Tuesday": [],
+    "Wednesday": [],
+    "Thursday": [],
+    "Friday": [],
+    "Saturday": [],
+    "Sunday": {
+        "activities": [
+            {
+                "name": "Hack36 \u2013 screen_timer.py",
+                "time_entries": [
+                    {
+                        "start_time": "2022-03-13 04:31:56",
+                        "end_time": "2022-03-13 04:31:58",
+                        "days": 0,
+                        "hours": 0,
+                        "minutes": 0,
+                        "seconds": 2
+                    },
+                    {
+                        "start_time": "2022-03-13 04:32:00",
+                        "end_time": "2022-03-13 04:32:01",
+                        "days": 0,
+                        "hours": 0,
+                        "minutes": 0,
+                        "seconds": 1
+                    },
+                    {
+                        "start_time": "2022-03-13 04:33:20",
+                        "end_time": "2022-03-13 04:33:22",
+                        "days": 0,
+                        "hours": 0,
+                        "minutes": 0,
+                        "seconds": 2
+                    },
+                    {
+                        "start_time": "2022-03-13 04:33:23",
+                        "end_time": "2022-03-13 04:33:24",
+                        "days": 0,
+                        "hours": 0,
+                        "minutes": 0,
+                        "seconds": 1
+                    },
+                    {
+                        "start_time": "2022-03-13 04:35:16",
+                        "end_time": "2022-03-13 04:35:17",
+                        "days": 0,
+                        "hours": 0,
+                        "minutes": 0,
+                        "seconds": 1
+                    }
+                ]
+            },
+            {
+                "name": "Settings",
+                "time_entries": [
+                    {
+                        "start_time": "2022-03-13 04:31:58",
+                        "end_time": "2022-03-13 04:32:00",
+                        "days": 0,
+                        "hours": 0,
+                        "minutes": 0,
+                        "seconds": 1
+                    },
+                    {
+                        "start_time": "2022-03-13 04:32:01",
+                        "end_time": "2022-03-13 04:32:02",
+                        "days": 0,
+                        "hours": 0,
+                        "minutes": 0,
+                        "seconds": 1
+                    },
+                    {
+                        "start_time": "2022-03-13 04:33:22",
+                        "end_time": "2022-03-13 04:33:23",
+                        "days": 0,
+                        "hours": 0,
+                        "minutes": 0,
+                        "seconds": 1
+                    },
+                    {
+                        "start_time": "2022-03-13 04:35:17",
+                        "end_time": "2022-03-13 04:35:18",
+                        "days": 0,
+                        "hours": 0,
+                        "minutes": 0,
+                        "seconds": 1
+                    }
+                ]
+            }
+        ]
+    }
+}
